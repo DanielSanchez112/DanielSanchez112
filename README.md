@@ -35,6 +35,7 @@
 <a href="" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-css3-9-1175237.png" alt="css" height="30" width="30" /></a>
 <a href="" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" alt="vscode" height="30" width="38" /></a>
 <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" height="30" width="30" /></a>
+<a href="" target="blank"><img align="center" src="https://4b-systems.com/wp-content/uploads/2023/02/Projekt-bez-tytulu-4.png" alt="kotlin" height="30" width="30" /></a>
 </p>
 
 <h2>〽️GitHub Analytics</h2>
