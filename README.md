@@ -1,7 +1,8 @@
 <h1 align="center"> Hi there, im Daniel Sanchez 🚀 </h1>
 <img src="https://media.licdn.com/dms/image/v2/D5616AQG0YcKWoQajkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734399837194?e=1746057600&v=beta&t=5q9a9E7xAWv-hHq0UNCaiEGwwObOQvF3Yg-fbKeY270">
 
-![GitHub followers](https://img.shields.io/github/followers/DanielSanchez112?style=flat-square&logo=github&labelColor=%231230AE&color=%236C48C5)
+![GitHub followers](https://img.shields.io/github/followers/DanielSanchez112?style=flat-square&logo=github)
+![GitHub ghpvc](https://komarev.com/ghpvc/?username=DanielSanchez112&label=Profile%20views&color=0e75b6&style=flat-square&logo=github")
 
 
 <h2> 💻 About me:</h2>
@@ -55,6 +56,8 @@
 <a href="mailto:tuemail@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30" width="40" /></a>
 </p>
 
+<h2 align="center">🏆Trophies:</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DanielSanchez112&theme=dracula&column=7" alt="DanielSanchez112" /></a> </p>
 
 
 <!--
