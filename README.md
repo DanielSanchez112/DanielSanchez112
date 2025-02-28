@@ -18,7 +18,7 @@
 - 🎉 in my free time i like to play, liset to music or watch a move.
 - ⚡ Fun fact: i like metal music 🤘, i like motor sports 🏁, i enjoy warm weather ☀️
 
-<h2 align="left">Skills:</h2>
+<h2 align="left">💪Skills:</h2>
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://www.manualweb.net/img/logos/java.png" alt="java" height="30" width="30" /></a>
 <a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png" alt="python" height="30" width="30" /></a>
@@ -38,7 +38,7 @@
 <a href="" target="blank"><img align="center" src="https://4b-systems.com/wp-content/uploads/2023/02/Projekt-bez-tytulu-4.png" alt="kotlin" height="30" width="30" /></a>
 </p>
 
-<h2>〽️GitHub Analytics</h2>
+<h2>📈GitHub Analytics</h2>
 
 <p align="center">
 <a href="https://github.com/DanielSanchez112">
@@ -47,8 +47,8 @@
 </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">🔱Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/sanchez-garcia-daniel-enrique-a600222b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel Sanchez" height="30" width="40" /></a>
 <a href="https://github.com/DanielSanchez112" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="DanielSanchez112" height="40" width="40" /></a>
 <a href="https://www.instagram.com/daniel.sanchez.kos112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel.sanchez.kos112" height="30" width="40" /></a>
