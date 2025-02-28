@@ -16,8 +16,9 @@
 - 🧠 I'm trying to learn somting new all the time
 - 💬 Ask me about anything 👇
 - 📫 How to reach me: desgarcia2112@gmail.com
-- 🎉 in my free time i like to play, liset to music or watch a move.
+- 🎉 In my free time i like to play :hurtrealbad:, listen to music or watch movies.
 - ⚡ Fun fact: i like metal music 🤘, i like motor sports 🏁, i enjoy warm weather ☀️
+- :mexico: I'm Mexican
 
 <h2 align="left">💪Skills:</h2>
 <p align="left">
