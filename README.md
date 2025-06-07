@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, im Daniel Sanchez 🚀 </h1>
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG0YcKWoQajkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734399837194?e=1746057600&v=beta&t=5q9a9E7xAWv-hHq0UNCaiEGwwObOQvF3Yg-fbKeY270">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQG0YcKWoQajkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734399837194?e=1754524800&v=beta&t=NEhFDNGr6dzOrNIzPASXYqC0cyiThbp9ZvSAzfFCjM0">
 
 ![GitHub followers](https://img.shields.io/github/followers/DanielSanchez112?style=flat-square&logo=github)
 ![GitHub ghpvc](https://komarev.com/ghpvc/?username=DanielSanchez112&label=Profile%20views&color=0e75b6&style=flat-square&logo=github")
